@@ -1,0 +1,1 @@
+// Implementation from previous artifact
